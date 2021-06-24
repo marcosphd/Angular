@@ -1,0 +1,10 @@
+#img-bg {
+    background-image: url('https://s2.glbimg.com/G7K7lmRoafjjFb8-VzPC_iQ1Pkk=/620x430/e.glbimg.com/og/ed/f/original/2018/09/24/header_lapland_konsta_aurora_hannes-1024x642.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
