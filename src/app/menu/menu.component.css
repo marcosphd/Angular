@@ -5,3 +5,8 @@
 .a {
     cursor: pointer;
 }
+
+.cores{
+    background: rgb(242,129,180);
+    background: radial-gradient(circle, rgba(242,129,180,0.8855917366946778) 6%, rgba(109,176,251,0.61) 71%, rgba(119,240,180,1) 100%);
+}

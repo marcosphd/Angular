@@ -1,0 +1,13 @@
+.fs-40{
+    font-size: 54pt;
+}
+
+.fs-18{
+    font-size: 18pt;
+}
+
+
+.cores{
+    background: rgb(242,129,180);
+    background: linear-gradient(152deg, rgba(242,129,180,0.938813025210084) 0%, rgba(122,185,255,0.9920343137254902) 30%, rgba(119,240,180,1) 64%, rgba(252,244,208,1) 100%);
+}
