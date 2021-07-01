@@ -1,0 +1,28 @@
+ul.social-network {
+list-style: none;
+padding: 0;
+}
+
+ul.social-network li{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+.fa {
+    font-size: 35px;
+    color: white;
+    padding: 5px;
+}
+
+.fa-facebook-square:hover {
+    color: #3b3bb4;
+}
+
+.fa-instagram:hover {
+    color: #b11b54;
+}
+
+.cores {
+    background: rgb(97,91,194);
+background: linear-gradient(127deg, rgba(97,91,194,1) 19%, rgba(241,98,98,1) 48%, rgba(255,255,167,0.9752275910364145) 95%);
+}
